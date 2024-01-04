@@ -11,10 +11,15 @@ public class DemoB {
 
 	}
          // Coming from GitHuB
-	public static void getInfo(String src) {
-		for (int i = 0; i < i.length(); i++)
-		System.out.println(i);
+	public  String getInfo(String src) {
+	   String result = " ";
+	   
+	   for(int i = 0; i<src.length(); i++) {
+		   return result;
 
+	   }
+	return result;
+	  
 
 	}
 }
