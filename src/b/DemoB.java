@@ -10,6 +10,11 @@ public class DemoB {
 		System.out.println("I do it again");
 
 	}
+         // Coming from GitHuB
+	public static void getInfo(String src) {
+		for (int i = 0; i < i.length(); i++)
+		System.out.println(i);
 
 
+	}
 }
